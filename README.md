@@ -1,1 +1,2 @@
-# slides-practice
+# seamless_carousel
+# slides
